@@ -1,0 +1,47 @@
+
+
+@import "https://fonts.googleapis.com/css?family=Open+Sans:400,600,700";
+
+// Variables ----------------------------------------
+
+
+// Text
+$font: 					'Open Sans', sans-serif;
+
+// Colors -----------------------------
+$color-white:			#FFF;
+$color-black:			#0D1021;
+
+$color-font:			$color-black;
+
+$color-bg:				#FAFAFA;
+
+
+$color-highlight:		#C76391;
+$color-spotify:			#1db954; //$color-highlight; // 1db954
+$color-spotify-font:	$color-black; //$color-white;
+
+
+// Sizes --------------------------------
+$grid: 					10px;
+
+$mobile-screen-width: 	720px;
+
+$max-width: 			1400px;
+$max-width-text: 		460px;
+
+$font-size:				18px;
+$line-height:			1.6;
+
+$time: 					0.3s;
+
+
+$height-header:			20px;
+
+
+// Grid ------------------------------
+$grid-max-width: 		$max-width;
+$grid-padding: 			$grid*2;
+$grid-margin: 			$grid*10;
+$grid-mobile: 			$mobile-screen-width;
+$grid-margin-mobile: 	$grid;
