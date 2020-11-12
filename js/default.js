@@ -12,15 +12,15 @@ function setupCards(){
     },
     {
       topic: 'Stairs',
-      desc: `Sometimes the little things make the most interesting visualizations. Olivier struggled a bit (he has been every day in another building) and Niko cheated a little bit, which is ok, looking at the sheer amount of lines.`
+      desc: `Sometimes the little things make the most interesting visualizations. Olivier struggled a bit (he has been every day in another building) but Niko cheated also little, which is ok, looking at the sheer amount of lines.`
     },
     {
       topic: 'Paying',
-      desc: `This week, we wanted to display what we have paid throughout the week. Coincidentally, Olivier has been that week in Sweden, one of the few Europena countries that do not have the Euro €.`
+      desc: `This week, we wanted to display what we have paid throughout the week. Coincidentally, Olivier has been that week in Sweden, one of the few European countries that do not have the Euro [€].`
     },
     {
       topic: 'Communicating',
-      desc: `We both were so relieved when that week was over. Recommendation from us: If you intend to do a "Dear Data" project as well, don't to this topic!`
+      desc: `We both were so relieved when that week was over. Recommendation from us: If you intend to do a "Dear Data" project as well, don't do this topic!`
     },
     {
       topic: 'Clothing',
