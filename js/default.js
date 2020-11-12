@@ -24,7 +24,7 @@ function setupCards(){
     },
     {
       topic: 'Clothing',
-      desc: `During this week, Niko was surfing in Hawaii, which inspired him to, finally, use some color. Apparently, Olivier‘s only colorful item in his closet is his watch.`
+      desc: `During this week, Niko was surfing in Hawaii, which inspired him to, finally, use some color. Apparently, Olivier’s only colorful item in his closet is his watch.`
     }
   ];
 
