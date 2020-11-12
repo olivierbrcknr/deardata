@@ -4,7 +4,7 @@ function setupCards(){
   const topicList = [
     {
       topic: 'Commuting',
-      desc: `In the first week, we wanted to focus on how we would get around. Niko has been still relatively new to SF and Olivier was freelancing at the time.`
+      desc: `In the first week, we wanted to focus on how we get around. Niko has been still relatively new to SF and Olivier was freelancing at the time.`
     },
     {
       topic: 'Drinks',
@@ -12,19 +12,19 @@ function setupCards(){
     },
     {
       topic: 'Stairs',
-      desc: `Sometimes the little things make the most interesting visualizations. Olivier struggled a bit (he has been every day in another building) but Niko cheated also little, which is ok, looking at the sheer amount of lines.`
+      desc: `Sometimes the little things make the most interesting visualizations. Olivier struggled a bit since he was in a different building every day. Niko cheated a little, which is ok, looking at the sheer amount of lines.`
     },
     {
       topic: 'Paying',
-      desc: `This week, we wanted to display what we have paid throughout the week. Coincidentally, Olivier has been that week in Sweden, one of the few European countries that do not have the Euro [€].`
+      desc: `We wanted to display our spending throughout this week. Coincidentally, Olivier has been that week in Sweden, one of the few European countries that do not have the Euro [€].`
     },
     {
       topic: 'Communicating',
-      desc: `We both were so relieved when that week was over. Recommendation from us: If you intend to do a "Dear Data" project as well, don't do this topic!`
+      desc: `Tracking all our communication was hard. We both were so relieved when this week was over. Recommendation from us: If you intend to do a "Dear Data" project as well, don't do this topic!`
     },
     {
       topic: 'Clothing',
-      desc: `Durign this week, Niko was surfing in Hawaii, giving the visualizations more variations as it would have been otherwise.`
+      desc: `During this week, Niko was surfing in Hawaii, which inspired him to, finally, use some color. Apparently, Olivier‘s only colorful item in his closet is his watch.`
     }
   ];
 
