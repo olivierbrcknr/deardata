@@ -114,6 +114,7 @@ footer {
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
   transition: all 0.2s, transform 0.6s cubic-bezier(.55, -.3, .27, 1.2);
+  cursor: pointer;
 }
 .card:before {
   content: '';
@@ -131,6 +132,7 @@ footer {
 .card-of-niko.week03:before {
   padding-top: 69.1011236%;
 }
+
 
 .card .front,
 .card .back {
